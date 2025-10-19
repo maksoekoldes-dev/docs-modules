@@ -14,7 +14,7 @@
 
 ### Base URL
 ```
-https://krsbeknjypkg.sg-members-1.clawcloudrun.com/proxy/gemini/v1beta/
+https://krsbeknjypkg.sg-members-1.clawcloudrun.com/proxy/gemini/v1beta/openai
 ```
 
 **Cara Mendapatkan Base URL:**
