@@ -1,4 +1,4 @@
-# Panduan Lengkap Gemini  API
+# Panduan Lengkap Gemini  API open ai compatible 
 
 ## Daftar Isi
 1. [Informasi Dasar](#informasi-dasar)
